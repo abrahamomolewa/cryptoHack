@@ -1,3 +1,3 @@
-solving many questions from 
+solving the hard questions from 
 
-https://cryptohack.org/
+https://cryptohack.org/ for your use
