@@ -1,10 +1,4 @@
-
-
-/* Using the two primes p = 26513, q = 32321, find the integers u,v such that
-
-p * u + q * v = gcd(p,q)
-
-Enter whichever of u and v is the lower number as the flag. */
+// calculate gcd(a,b) for a = 66528, b = 52920 and enter it below.
 
 
 fn gcd(mut a: u64, mut b: u64) -> u64 {
@@ -26,3 +20,4 @@ fn gcd(mut a: u64, mut b: u64) -> u64 {
     println!("{}", result);
  
  }
+
